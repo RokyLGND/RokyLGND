@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Hi there, I am Bruno Barbosa 👋
+### Hello! I'm José Manoel 👋
 
  Hello, I've already worked with ui design with figma, improving my skills in creating beautiful and intuitive interfaces. I recently made a career transition, to android developer, since then, I have created some projects. My specialties include: Kotlin, Ui Design (figma)Room, Oop, mvvm, sdk, agile methodology (Scrum),git, GitHub.
 UI components, such as: TextView,EditText,Button,Toast for message display,Explicit Intent to open the second Activity,FindViewById to retrieve UI components,String resources .
@@ -8,16 +8,14 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
 
  🔭 I’m currently Looking for an oportunity as an Android Dev , UI Design
  
- 🌱 I’m currently learning Android Development and UI/UX Desingn
- 
  👯 I’m looking to collaborate on a real project with a dedicated team and a company thats likes people wo want to learn
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoHPBarbosa&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RokyLGND&show_icons=true&theme=radical) 
 
 <p align="left">
 
 <p align="left">
-  💼 tools: Android studio /Figma
+  💼 tools: Android studio
 </p>
 
 
@@ -31,7 +29,7 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
 
 <div style="display: flex; align-items: center;">
 
-  <img src="https://github.com/BrunoHPBarbosa/BrunoHPBarbosa/assets/141725324/1fdba0ed-baf0-4786-8314-fc7572713dbc" alt="XOsX" width="50">
+  <img src="https://github.com/RokyLGND/RokyLGND/assets/141725324/1fdba0ed-baf0-4786-8314-fc7572713dbc" alt="XOsX" width="50">
 
 
 <p align="left">
@@ -61,17 +59,17 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
 
 <p align="left">
   <a
-    href="https://github.com/BrunoHPBarbosa/github-profile-trophy"
+    href="https://github.com/RokyLGND/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=BrunoHPBarbosa&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=RokyLGND&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
 
-![SdxZ (1)](https://github.com/BrunoHPBarbosa/BrunoHPBarbosa/assets/141725324/b2e3ce10-d446-4300-9718-8373675d31ea)
+![SdxZ (1)](https://github.com/RokyLGND/RokyLGND/assets/141725324/b2e3ce10-d446-4300-9718-8373675d31ea)
 
 
 
