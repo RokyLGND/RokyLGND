@@ -29,16 +29,15 @@ UI components, such as: TextView,EditText,Button,Toast for message display,Expli
 
 <div style="display: flex; align-items: center;">
 
-  <img src="https://github.com/RokyLGND/RokyLGND/assets/141725324/1fdba0ed-baf0-4786-8314-fc7572713dbc" alt="XOsX" width="50">
 
 
 <p align="left">
 
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/bruno-barbosa-08144b287](https://www.linkedin.com/in/bruno-barbosa-08144b287)" alt="LinkedIn"/></a>  
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jos%C3%A9-manoel-8485352a0/]" alt="LinkedIn"/></a>  
 
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[https://www.instagram.com/oo_roky_](https://www.instagram.com/oo_roky_)" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[https://www.instagram.com/oo_roky_]" alt="Instagram"/></a>
   
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
