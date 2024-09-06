@@ -33,6 +33,7 @@ UI components include TextView, EditText, Button, Toast for message display, Exp
 
 ##
 
+<!--
 <p align="left">
   <a
     href="https://github.com/RokyLGND/github-profile-trophy"
@@ -43,7 +44,7 @@ UI components include TextView, EditText, Button, Toast for message display, Exp
       src="https://github-profile-trophy.vercel.app/?username=RokyLGND&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
-</p>
+</p> -->
 
 <div>
  <img align="center" src="https://camo.githubusercontent.com/b80e477de5f7843eab9b2a71e6454da3fce9df84f7b84a19bdc23a85e4473476/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313038302f312a56465957586c6167355378716770713745484a3743412e676966">
