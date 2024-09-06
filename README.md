@@ -3,7 +3,7 @@
 ### Hello! I'm José Manoel 🤝
 
  Hello! I'm here to improve my skills in creating beautiful and intuitive interfaces. I recently made a career transition, to an Android developer, and since then, I've been creating some projects. My specialties include Kotlin, git, and GitHub.
-UI components include TextView, EditText, Button, Toast for message display, Explicit Intent to open the second Activity,FindViewById to retrieve UI components, and String resources.
+UI components include TextView, EditText, Button, Toast for message display, Explicit Intent to open the second Activity, FindViewById to retrieve UI components, and String resources.
 </p>
 
  📚 I’m currently studying and improving my skills as an Android Developer
