@@ -24,6 +24,8 @@ UI components include TextView, EditText, Button, Toast for message display, Exp
   📩 Email: rokylgnd@gmail.com
 </p>
 
+<!--
+
 <div style="display: flex; align-items: center;">
 
 <div style="display: inline_block"><br>
@@ -32,8 +34,6 @@ UI components include TextView, EditText, Button, Toast for message display, Exp
 </div>
 
 ##
-
-<!--
 <p align="left">
   <a
     href="https://github.com/RokyLGND/github-profile-trophy"
