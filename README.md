@@ -45,7 +45,5 @@ UI components include TextView, EditText, Button, Toast for message display, Exp
   </a>
 </p>
 
-![SdxZ (1)](https://github.com/RokyLGND/RokyLGND/assets/141725324/b2e3ce10-d446-4300-9718-8373675d31ea)
-
 
 
