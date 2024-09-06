@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://sempreupdate.com.br/wp-content/uploads/2019/08/Android-logo_stacked-RGB.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Hello! I'm José Manoel 🤝
 
