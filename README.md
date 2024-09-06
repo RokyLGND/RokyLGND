@@ -1,4 +1,4 @@
-<img src="https://images.vexels.com/content/139556/preview/android-logo-d2b6bf.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Hello! I'm José Manoel 🤝
 
