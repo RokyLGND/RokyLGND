@@ -21,7 +21,7 @@ UI components include TextView, EditText, Button, Toast for message display, Exp
 </p>
 
 <p align="left">
-  📩 Email: rokylgnd@gmail.com
+  📩 Email: rokydev1407@gmail.com
 </p>
 
 <!--
